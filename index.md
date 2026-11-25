@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
-belloo im adeline!
+bello im adeline
+
 ---
